@@ -8,7 +8,7 @@ For more information on Microchip WINC1500 Wi-Fi Module, visit Microchip webpage
 For more information on STM32F249ZI MCU, visit ST webpage: https://www.st.com/en/microcontrollers/stm32f429zi.html
 
 
-![](Doc/Setup.png)
+![](Doc/SETUP.png)
 
 ## Software
 
@@ -25,13 +25,13 @@ STM32 Nucleo-144 development board with STM32F429ZI MCU
 STM32 Nucleo-144 board does not require any debug probe as it integrates the ST-LINK/V2-1 debugger/programmer.</br>
 The USB connector CN1 will be used to power supply the board, program the MCU and interact with the serial console.</br>
 More information available:  https://www.st.com/en/evaluation-tools/nucleo-f429zi.html
-![](Doc\NUCLEO-F429ZI.png)
+![](Doc/NUCLEO-F429ZI.png)
 
 The ATWINC1500-XPRO extension board allows you to evaluate the Microchip WINC1500 WiFi module.</br>
 More information available: https://www.microchip.com/DevelopmentTools/ProductDetails/ATWINC1500-XPRO
-![](Doc\WINC1500-XPRO.png)
+![](Doc/WINC1500-XPRO.png)
 
-![](Doc\WIRING.png)
+![](Doc/WIRING.png)
 
 
 ## Tutorial
